@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51742846008",
+    "project_id": "financni-pomocnik-xaa80s",
+    "storage_bucket": "financni-pomocnik-xaa80s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51742846008:android:ad4d3dfb46041d2baf8acd",
+        "android_client_info": {
+          "package_name": "com.mycompany.financnipomocnik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7cmA4bG-iq6Lc6vllIHxUcasr-kBl3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
